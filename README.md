@@ -1,6 +1,6 @@
 # notepad_flutter
 
-A new Flutter project.
+Apps Noted using Local Storage, using Flutter.
 
 ## Getting Started
 
